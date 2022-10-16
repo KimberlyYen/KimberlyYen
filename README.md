@@ -1,16 +1,21 @@
-- 👋 Hi, I’m @KimberlyYen
+<p align="center">
+  <a href="https://www.codewars.com/users/KimberlyYen" target="_blank">
+    <img src="https://www.codewars.com/users/KimberlyYen/badges/large"/>
+  </a>
+</p>
+
+- 👋 Hi, I’m @KimberlyYen 🇹🇼 🇹🇼 🇹🇼
 - 👀 I’m interested in【 HTML, CSS, JavaScript 】
 - 🌱 I’m currently learning【 React.js 】
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by Email : work223305@gmail.com
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimberlyYen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://www.codewars.com/users/KimberlyYen" target="_blank">
-    <img src="https://www.codewars.com/users/KimberlyYen/badges/large"/>
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimberlyYen&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Frontend. </h4>  
