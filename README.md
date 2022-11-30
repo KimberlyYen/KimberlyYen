@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4>Frontend. </h4>  
 
-[![My Skills Frontend](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,git,github,vscode,vite&theme=light)](https://skillicons.dev)
+[![My Skills Frontend](https://skillicons.dev/icons?i=vscode,js,html,css,react,tailwind,git,github,gitlab,vscode,vite&theme=light)](https://skillicons.dev)
 
 <h4>UiUx Designer. </h4>  
 
