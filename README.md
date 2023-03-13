@@ -11,7 +11,7 @@
 - 📫 How to reach me by Email : work223305@gmail.com
 - ⚡ Visit 
   - [My website](https://website-kimberly-yen.vercel.app/) 
-  - [CodePen](https://codepen.io/your-work)
+  - [CodePen](https://codepen.io/your-work?item_type=collection)
   - [Medium](https://medium.com/me/stories/drafts)
 
 
